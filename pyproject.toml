@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentimentarcs"
+version = "0.1.0"
+description = "Turn long texts into diachronic sentiment arcs, detect cruxes, and export plots."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="Your Name", email="you@example.com"}]
+license = {text = "MIT"}
+dependencies = [
+  "pandas>=1.5",
+  "clean-text>=0.6.0",
+  "vaderSentiment>=3.3.2",
+  "textblob>=0.18.0.post0",
+  "pysbd>=0.3.4",
+  "matplotlib>=3.7",
+  "python-dotenv>=1.0.1",
+  "pyyaml>=6.0",
+]
+[project.optional-dependencies]
+scipy = ["scipy>=1.11"]
+hf = ["transformers>=4.40.0"]
+[project.scripts]
+sentimentarcs = "sentimentarcs.cli:main"
