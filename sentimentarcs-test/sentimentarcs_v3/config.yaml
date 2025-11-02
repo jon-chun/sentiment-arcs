@@ -1,0 +1,18 @@
+text_defaults:
+  language: "en"
+  clean_tech: "pysbd"
+plot_defaults:
+  title_template: "{title} by {author} — Sentiment model={model_name}"
+  subtitle_template: "Smoothed with {smooth_algo} ({smooth_params})"
+smoothing_defaults:
+  method: "sma"
+  win_per: 0.1
+  span_per: 0.1
+  sg_win_per: 0.1
+  sg_poly_order: 2
+crux_defaults:
+  distance: 50
+  prominence: 0.05
+  half_win: 5
+output:
+  dir: "outputs"

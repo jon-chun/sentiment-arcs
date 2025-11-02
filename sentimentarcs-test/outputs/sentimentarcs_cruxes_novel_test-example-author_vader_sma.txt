@@ -1,0 +1,5 @@
+model=vader
+smooth=sma
+params={'win_per': 0.1}
+exported=2025-11-01T20:23:07.274263
+rows=0

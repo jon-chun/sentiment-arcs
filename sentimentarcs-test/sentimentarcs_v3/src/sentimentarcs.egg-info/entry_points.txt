@@ -1,0 +1,2 @@
+[console_scripts]
+sentimentarcs = sentimentarcs.cli:main

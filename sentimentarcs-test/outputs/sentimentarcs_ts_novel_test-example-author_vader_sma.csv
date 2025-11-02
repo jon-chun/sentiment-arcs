@@ -1,0 +1,3 @@
+line_no,text,sentiment,model_name,sentiment_smoothed,smooth_method,smooth_params,sentiment_norm
+0,This is a very happy day. ,0.6115,vader,-0.009749999999999981,sma,{'win_per': 0.1},-0.0
+1,But later it became sad.,-0.631,vader,-0.009749999999999981,sma,{'win_per': 0.1},-0.0
