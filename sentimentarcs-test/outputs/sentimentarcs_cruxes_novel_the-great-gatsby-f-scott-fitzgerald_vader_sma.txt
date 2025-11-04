@@ -1,5 +1,43 @@
-model=vader
-smooth=sma
-params={'win_per': 0.1}
-exported=2025-11-01T20:24:16.169798
-rows=208
+New chat
+
+Linguistic Reasoning: How Multi-Agent Debate Courtroom Simulations Can Improve Recidivism Predictions Anonymous ACL submission Abstract ciently, new training methodologies like LoRA and architectural innovations like Mixture of Experts (MoE) emerged (Hu et al., 2021; Kaplan et al., 0). As models
+
+pasted
+
+
+1. 1-Day Executive Assessment This paper can be a good fit for LaMAS 2026 **if it is reframed** from “LLMs for recidivism prediction” to “courtroom-style multi-agent orchestration for high-stakes tabular decisions.” The real LaMAS-friendly contribution isn’t the accuracy/F1 numbers, but the **exp
+
+pasted
+
+<PAPER_ORIGINAL>
+(attached)
+
+</PAPER_ORIGINAL> 
+
+<SUGGESTIONS>
+(attached)
+
+</SUGGESTIONS>
+
+<AAAI_WORKSHOP>
+AAAI'26 WORKSHOP
+LLM-based Multi-Agent Systems: Towards Responsible, Reliable, and Scalable Agentic Systems (LaMAS 2026)
+27 January, 2026, Singapore
+LaMAS 2026 focuses on the emerging field of multi-agent systems powered by LLMs. As interest in using multiple LLM agents to solve complex problems grows, our main objective is to systematically address the critical challenges and opportunities that arise from their interaction. We aim to bridge the gap in understanding failure modes, alignment challenges, and responsible behavior in these systems. The workshop will foster discussion on making these systems powerful, transparent, verifiable, and aligned with human intent.
+Call for Paper
+contact us at: __aaai-lamas2026@googlegroups.com__
+We welcome both short papers (up to 4 pages) and long papers (up to 8 pages) following the __AAAI template__. Submissions may include recently published work, under-review papers, work in progress, and position papers. All submissions will undergo peer review through a double-blind process. While workshop publication is non-archival, accepted papers will be featured on our website with the author's permission. Topics of interest include but are not limited to the following:
+* Organization of multiple LLM agents, including their interaction paradigms, coordination strategies, and communication protocols.
+* Evaluation and Optimization for assessing LaMAS's performance with emergent behaviors, and fine-tuning techniques to enhance its efficiency and effectiveness.
+* Safety, Trust, and Responsibility about how to design LaMAS that are safe, aligned, and trustworthy. This includes responsible agent behavior, human-in-the-loop oversight, and regulatory frameworks that ensure accountability, fairness, and transparency in real-world deployments.
+* Real-World Applications spanning software development, scientific research, education, and business processes, with infrastructures for large-scale multi-agent LLM deployments.
+
+</AAAI_WORKSHOP>
+
+<INSTRUCTIONS> 
+Think hard to apply these <SUGGESTIONS>  to this <PAPER_ORIGINAL> generate a new version of my paper that preserves as much of my original style, content, length, etc. as possible while also having the highest probability of being accepted to the <AAAI_WORKSHOP> by focusing on their CFP.  REMEMBER: keep the paper about the same length of 8 pages but apply the suggestions to simplify, focus, and implement the <SUGGESTIONS> as best you can.
+</INSTRUCTIONS>
+
+
+
+AgenticSimLLM: A Courtroom-Style Multi-Agent Debate Framework for Transparent High-Stakes Tabular Decision Making
